@@ -46,11 +46,11 @@ h2{
     color: #fff;
     font-size: 1em;
     pointer-events: none;
-    transition: .5s;
+    transition: .45s;
 }
 input:focus ~ label,
 input:valid ~ label{
-    top: -5px;
+    top: 15px;
 }
 
 .inputbox input{
