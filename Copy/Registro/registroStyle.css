@@ -101,18 +101,19 @@ body{
     padding: 15px;
     cursor: pointer;
     margin: 0 10px;
-    background-color: rgba(255, 255, 0, 0.575);
-    color: #13bb1d;
+    background-color: rgb(255, 255, 255);
+    color: #000000;
     transition: background-color .3s ease;
     box-shadow: 0 2px 5px rgba(0, 0, 0, .1);
 }
 
 .icons i:hover{
-    background-color: #13bb1d;
-    color: rgba(255, 255, 0, 0.575);
+    background-color: #000000;
+    color: rgb(255, 255, 255);
 }
 
 .form{
+    padding: 15px;
     margin: 30 0 0;
 }
 
